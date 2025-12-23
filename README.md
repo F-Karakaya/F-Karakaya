@@ -37,7 +37,7 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/matlab-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="50"/>
 </div>
 
 ---
