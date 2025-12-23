@@ -46,19 +46,17 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/pytorch-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logomark_Original.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SLAM_logo.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Stereo_vision.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Camera_icon.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/CAD_Icon.svg" height="50"/>
+<img src="https://static.vecteezy.com/system/resources/previews/042/411/737/non_2x/stereo-vision-creative-icon-design-vector.jpg" height="50"/>
+<img src="https://media.istockphoto.com/id/1367855254/vector/camera-calibration-solid-icon.jpg?s=612x612&w=0&k=20&c=QUaMOD4-Y9AJTWbEYYngoqn4D-MVrov87l6lk6NDqPA=" height="50"/>
+<img src="https://cdn-icons-png.freepik.com/512/29/29053.png" height="50"/>
 </div>
 
 **Topics include:**  
-OpenCV · PyTorch · TensorFlow · YOLO · ROS / ROS2 · SLAM · Stereo Vision ·  
-Camera Calibration · Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCAD)
+OpenCV · PyTorch · TensorFlow · ROS / ROS2 · Stereo Vision ·  
+Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCAD)
 
 ---
 
@@ -67,10 +65,10 @@ Camera Calibration · Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeC
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/>
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nvidia_cuda-icon.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/CMake.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/250px-Nvidia_CUDA_Logo.jpg" height="50"/>
+<img src="https://images.icon-icons.com/2699/PNG/512/cmake_logo_icon_168385.png" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" height="50"/>
 </div>
 
