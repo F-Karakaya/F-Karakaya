@@ -49,9 +49,9 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="50"/>
-<img src="https://static.vecteezy.com/system/resources/previews/042/411/737/non_2x/stereo-vision-creative-icon-design-vector.jpg" height="50"/>
-<img src="https://media.istockphoto.com/id/1367855254/vector/camera-calibration-solid-icon.jpg?s=612x612&w=0&k=20&c=QUaMOD4-Y9AJTWbEYYngoqn4D-MVrov87l6lk6NDqPA=" height="50"/>
-<img src="https://cdn-icons-png.freepik.com/512/29/29053.png" height="50"/>
+<img src="https://static.vecteezy.com/system/resources/previews/032/344/565/non_2x/stereo-vision-creative-icon-design-free-vector.jpg" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/11922/11922392.png" height="50"/>
+<img src="https://cdn-icons-png.freepik.com/512/6741/6741137.png" height="50"/>
 </div>
 
 **Topics include:**  
@@ -68,7 +68,7 @@ Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCA
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/250px-Nvidia_CUDA_Logo.jpg" height="50"/>
-<img src="https://images.icon-icons.com/2699/PNG/512/cmake_logo_icon_168385.png" height="50"/>
+<img src="https://www.kitware.com/main/wp-content/uploads/2016/11/CMake-Logo-and-Text-e1540917038464.png" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" height="50"/>
 </div>
 
