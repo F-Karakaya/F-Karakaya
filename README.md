@@ -3,7 +3,7 @@
 <h4 align="center">Computer Vision Engineer</h4>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" height="300" weight="400" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" height="600" weight="800" />
 </div>
 
 ---
