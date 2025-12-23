@@ -48,6 +48,7 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/>
 <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="50"/>
 <img src="https://static.vecteezy.com/system/resources/previews/032/344/565/non_2x/stereo-vision-creative-icon-design-free-vector.jpg" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/11922/11922392.png" height="50"/>
@@ -55,7 +56,7 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 </div>
 
 **Topics include:**  
-OpenCV · PyTorch · TensorFlow · ROS / ROS2 · Stereo Vision ·  
+OpenCV · PyTorch · TensorFlow · Keras · ROS / ROS2 · Stereo Vision ·  
 Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCAD)
 
 ---
@@ -66,6 +67,7 @@ Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCA
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/250px-Nvidia_CUDA_Logo.jpg" height="50"/>
 <img src="https://www.kitware.com/main/wp-content/uploads/2016/11/CMake-Logo-and-Text-e1540917038464.png" height="50"/>
