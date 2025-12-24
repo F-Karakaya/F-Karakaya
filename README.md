@@ -1,6 +1,6 @@
 ### <div align="center">Hi 👋 I'm Furkan Karakaya</div>
 
-<h4 align="center">Computer Vision Engineer</h4>
+<h4 align="center">AI & Computer Vision Engineer</h4>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" height="450" />
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Vision Engineer** with a strong hybrid background in **academic research and industrial applications**.
+I am an **AI and Computer Vision Engineer** with a hybrid background in **academic research and industrial applications**.
 
 - 🎓 B.Sc. in Computer Engineering from **Konya Technical University**
 - 📚 Currently pursuing **M.Sc. in Computer Engineering** at the same university
