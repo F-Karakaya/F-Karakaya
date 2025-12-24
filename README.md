@@ -32,12 +32,24 @@ I am an **AI and Computer Vision Engineer** with a hybrid background in **academ
 ### 🧠 Programming Languages
 
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
-<img src="https://skillicons.dev/icons?i=matlab" height="50"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" height="50"/>
+  </a>
 </div>
 
 ---
@@ -45,14 +57,30 @@ I am an **AI and Computer Vision Engineer** with a hybrid background in **academ
 ### 🤖 AI · Computer Vision · Robotics
 
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" height="50"/>
-<img src="https://static.vecteezy.com/system/resources/previews/032/344/565/non_2x/stereo-vision-creative-icon-design-free-vector.jpg" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/11922/11922392.png" height="50"/>
-<img src="https://cdn-icons-png.freepik.com/512/6741/6741137.png" height="50"/>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" height="50"/>
+  </a>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" height="50"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_stereo_vision" target="_blank" rel="noreferrer">
+    <img src="https://static.vecteezy.com/system/resources/previews/032/344/565/non_2x/stereo-vision-creative-icon-design-free-vector.jpg" alt="Stereo Vision" height="50"/>
+  </a>
+  <a href="https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/11922/11922392.png" alt="Camera Calibration" height="50"/>
+  </a>
+  <a href="https://www.autodesk.com/solutions/3d-cad-software" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.freepik.com/512/6741/6741137.png" alt="CAD / 3D" height="50"/>
+  </a>
 </div>
 
 **Topics include:**  
@@ -64,17 +92,34 @@ Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCA
 ### 🛠 Tools & Systems
 
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
-<img src="https://www.svgrepo.com/show/475654/github-color.svg" height="50"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/250px-Nvidia_CUDA_Logo.jpg" height="50"/>
-<img src="https://www.kitware.com/main/wp-content/uploads/2016/11/CMake-Logo-and-Text-e1540917038464.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" height="50"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" height="50"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/250px-Nvidia_CUDA_Logo.jpg" alt="NVIDIA CUDA" height="50"/>
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kitware.com/main/wp-content/uploads/2016/11/CMake-Logo-and-Text-e1540917038464.png" alt="CMake" height="50"/>
+  </a>
+  <a href="https://docs.conda.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="Conda" height="50"/>
+  </a>
 </div>
 
 ---
+
 
 ### 📩 Connect with Me
 
@@ -97,15 +142,6 @@ Camera Calibration / Marker-based Pose Estimation · CAD / 3D (STEP, STL, FreeCA
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=F-Karakaya&style=flat-square"/>
 </div>
-
-<br/>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Karakaya&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-Karakaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
