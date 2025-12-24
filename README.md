@@ -14,7 +14,7 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 
 - 🎓 B.Sc. in Computer Engineering from **Konya Technical University**
 - 📚 Currently pursuing **M.Sc. in Computer Engineering** at the same university
-- 🏢 Working at a **private company in Eskişehir**, focusing on real-world AI & vision systems
+- 🏢 Working at **Visea Innovative Information Technologies** in Eskişehir, focusing on real-world AI & vision systems
 - 🔬 Research & development oriented, with hands-on industrial deployment experience
 
 **Main focus areas:**
@@ -22,7 +22,7 @@ I am a **Computer Vision Engineer** with a strong hybrid background in **academi
 - Image Processing & Object Detection  
 - Computer Vision  
 - Autonomous Systems  
-- Multimodal Learning  
+- Multimodal Learning (NLP, LLMs, VLMs)
 
 📫 **How to reach me:** se.furkankarakaya@gmail.com  
 ⚡ **Fun fact:** I enjoy turning real-world problems into deployable vision systems — if it sees, detects, or moves, I’m interested.
